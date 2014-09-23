@@ -11,6 +11,6 @@ package de.qreator.mavenproject2;
  * @author thomas
  */
 public class testklasse {
-    hallo du held nochmal
-            noch ein weiterer test
+ok
+        jetzt ist alles klar
 }
