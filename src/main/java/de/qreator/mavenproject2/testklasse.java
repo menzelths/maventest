@@ -19,5 +19,6 @@ public class testklasse {
                              super das geht gut
                                      das ist docjh scjäm
                              es zweigt wieder ab
+                                     noch so ein ding
 }
     
